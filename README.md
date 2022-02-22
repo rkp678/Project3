@@ -7,7 +7,7 @@ Prepared by: Rachel Pierce and Margee Lancaster
 #
 
 ## Project Title:
-Do Banks Offer the most Popular Payment Technologies?
+Crypto and Banking Sentiment Analysis 
 
 ![image](./Images/XX.png)
 
@@ -21,19 +21,21 @@ Do Banks Offer the most Popular Payment Technologies?
 
 ## Project Objective and Hypothesis  
   
-Our objective is to research various payment types, determining which are most popular (credit cards, debit cards, applepay,
-googlepay, crypto, etc).  We plan to research various APIs, such as Shopify, Paypal, etc.  Once we determine the top payment types,
-we plan to compare them to what banks offer.  We will need to find an API that would show what products banks offer, including payments.
-We plan to answer the following questions:  Do banks offer the most popular payment types?  Are they keeping up with technology and
-consumer preferences, or are consumers migrating more towards fintech companies who offer these payment technologies?  
+Our objective is to research news articles using Reuters API to determine the overall sentiment analysis of cryptocurrency in banking.  Given cryptocurrency is creeping into the banking system, we want to determine how the banking industry views cryptocurrency in general.
 
-Our hypothesis is that banks are not keeping up with changing customer preferences as far as payments, which is why many banks are 
-partnering with fintech companies to offer these innovative technologies.
+Our hypothesis is that the banking industry is more risk averse and less supportive of cryptocurrency. While some banks are offering crypto services, we believe that banks are  more comfortable partnering with fintechs to offer crypto services rather than offering them through the bank.
+
+We plan to answer the following questions:  
+1. Does the public have a positive, negative, or neutral sentiment surrounding crypto in banking?
+2. How are banks incorporating crypto into their business?
+3. What are the pros/cons (positive/negative sentiment) regarding crypto in banking?
+4. What fintechs are banks partnering with to provide crypto services?
 
 #
 
 ## Datasets Used:
-We used data obtained from ...
+We used data obtained from the Reuters API.
+ADD LINK.
 
 #
 
@@ -46,6 +48,14 @@ Our process consisted of data exploration,  data preparation, and data cleanup.
 
 Data Issues: 
 -
+
+#
+
+## Background 
+As part of our presentation, we will include several background slides to add context surrounding crypto in banking.  Ideas for slides include:
+1. Bank Use Cases (cattle tracking blockchain, crypto custody services, JP metaverse, Visa/MC offering crypto conversion, TassatPay/Network, USDF Consortium)
+2. Risks associated with crypto in banking (BSA/AML, price risk, operational risks, etc)
+3. Benefits of crypto in banking (faster payments, regulation/public trust, expansion of bank services/customer base)
 
 #
 
