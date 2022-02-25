@@ -68,7 +68,7 @@ We will include several background slides to add context surrounding three main 
 6. Benefits of new technologies in banking (faster payments, regulation/public trust, expansion of bank services/customer base, open banking for all)
 7. Our Project - Analyze sentiment across three main concepts - Crypto, Open Banking, and Traditional Banking, include Hypothesis
 8. What is Crypto?  What is Open Banking? What is Traditional Banking?
-9. Sentiment Analysis
+9. Sentiment Analysis of each
 10. Ngrams and Frequency Analysis
 11. AWS Comprehend
 12. Conclusion
@@ -107,5 +107,5 @@ Please refer to the following workpapers in GitHub:
 
 ## References:
 - [News API Page](https://newsapi.org/)
-
+- [Fintech Advisory Article](https://www.fintech-advisory.com/news/2021/5/19/why-more-people-choose-crypto-over-traditional-banking)
 #
