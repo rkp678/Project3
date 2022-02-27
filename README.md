@@ -139,6 +139,10 @@ Please refer to the following workpapers in GitHub:
 - [Investopedia](https://www.investopedia.com/articles/07/banking.asp)
 - [US Bank Article](https://www.usbank.com/financialiq/manage-your-household/personal-finance/evolution-of-banking-technology.html
 )
+- [Forbes Article](https://www.forbes.com/sites/ronshevlin/2022/01/19/bank-fintech-partnerships-are-under-performing-whats-going-wrong/?sh=74c0e2c5559a)
+- [Forbes Article](https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/03/banks-and-fintech-a-partnership-with-a-future/?sh=5e52ef0d6aab)
+- [Deloitte Article](https://www2.deloitte.com/us/en/pages/center-for-board-effectiveness/articles/information-technology-risks-financial-services.html)
+- [Deloitte Article](https://www2.deloitte.com/us/en/pages/center-for-board-effectiveness/articles/information-technology-risks-financial-services.html)
 - [Beefchain](https://beefchain.com/about/)
 - [FNB Omaha Agriculture of Tomorrow](https://www.fnbo.com/insights/commercial-business/three-new-trends-in-agribusiness/)
 - [US Bank launches bitcoin custody service as institutions race to cater to crypto demand](https://www.cnbc.com/2021/10/05/bitcoin-custody-us-bank-launches-service-as-institutions-race-to-cater-to-crypto-demand.html)
