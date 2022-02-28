@@ -72,7 +72,7 @@ Data Issues:
 Our presentation includes the following slides, which cover background information related to crypto, open banking, and traditional banking, project objectives and hypothesis, sentiment analysis results, AWS Comprehend demo, and conclusions.  Please refer to the html presentation in GitHub for the presentation deck.  
   
 1. Evolution of Banking
-2. The Banking industry is no longer just a brick and mortor bank, we are moving towards blockchain technology and fintech innovation to provide better banking services to meet consumer demand
+2. The Innovation of Banking (No longer just a brick and mortor bank, moving towards blockchain technology and fintech innovation to provide better banking services to meet consumer demand)
 3. How blockchain technology and partnering with Fintechs is improving banking
 4. Bank Use Cases (cattle tracking with blockchain, bank crypto custody services, JP in the metaverse, Visa/MC offering crypto conversion, TassatPay/Network, USDF Consortium, CBDCs)
 5. Banks currently using blockchain technology
@@ -100,7 +100,7 @@ Neutral/Slightly Positive
 Positive
 3. Does the public have a positive, negative, or neutral sentiment surrounding traditional banking?  
 Positive
-4. How do these three concepts compare (sentiment analysis)?
+4. How do these three concepts compare (sentiment analysis)?  
 Based on our analysis, traditional banking has the highest positive scores in most categories.  Crypto and Open Banking were mixed, with some positive, some negative, but crypto was clearly the lowest overall.
 5. How does our sentiment analysis results compare to AWS Comprehend?  
 AWS Comprehend results were neutral across all three concepts.
@@ -111,7 +111,6 @@ AWS Comprehend results were neutral across all three concepts.
   
 ![Image](./Images/bankingplot.png)  
   
-
 #
 
 ## Difficulties/Implications/Potential Next Steps:  
