@@ -73,7 +73,7 @@ Our presentation includes the following slides, which cover background informati
   
 1. Evolution of Banking
 2. The Innovation of Banking (No longer just a brick and mortor bank, moving towards blockchain technology and fintech innovation to provide better banking services to meet consumer demand)
-3. How blockchain technology and partnering with Fintechs is improving banking
+3. Banking Improvements and Challenges of Fintech Partnerships
 4. Bank Use Cases (cattle tracking with blockchain, bank crypto custody services, JP in the metaverse, Visa/MC offering crypto conversion, TassatPay/Network, USDF Consortium, CBDCs)
 5. Banks currently using blockchain technology
 6. Risks associated with new technologies in banking (BSA/AML, Fair Lending, price risk, operational risks, etc.)
@@ -151,5 +151,7 @@ Please refer to the following workpapers in GitHub:
 - [Visa says crypto-linked card usage hit $2.5 billion in its first quarter](https://www.cnbc.com/2022/01/28/visa-says-crypto-linked-card-usage-hit-2point5-billion-in-its-first-quarter.html)
 - [JP Morgan is first leading back to launch in the metaverse](https://fintechmagazine.com/banking/jp-morgan-becomes-the-first-bank-to-launch-in-the-metaverse)
 - [Top Crypto-Friendly Banks](https://fortunly.com/banking/best-crypto-friendly-banks/#gref)
-
+- [Milo Launches Crypto Mortgage Product](https://www.housingwire.com/articles/milo-launches-a-crypto-mortgage-product/)
+-[Russia May Use Cryptocurrency to Evade Sanctions](https://www.investopedia.com/russia-may-use-cryptocurrency-to-evade-sanctions-5220265)
+- [World's biggest crypto exchange Binance says it will not block all Russian accounts despite Ukraine request](https://www.cnbc.com/2022/02/28/binance-will-not-block-russian-accounts-after-ukraine-request.html)
 #
