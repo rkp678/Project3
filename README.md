@@ -74,7 +74,7 @@ Our presentation includes the following slides, which cover background informati
 1. Evolution of Banking
 2. The Innovation of Banking (No longer just a brick and mortor bank, moving towards blockchain technology and fintech innovation to provide better banking services to meet consumer demand)
 3. Banking Improvements and Challenges of Fintech Partnerships
-4. Bank Use Cases (cattle tracking with blockchain, bank crypto custody services, JP in the metaverse, Visa/MC offering crypto conversion, TassatPay/Network, USDF Consortium, CBDCs)
+4. Bank Use Cases (cattle tracking with blockchain, bank crypto custody services, JP in the metaverse, Visa/MC offering crypto conversion, TassatPay/Network, USDF Consortium, CBDCs, Milo crypto mortgages, etc.)
 5. Banks currently using blockchain technology
 6. Risks associated with new technologies in banking (BSA/AML, Fair Lending, price risk, operational risks, etc.)
 7. Benefits of new technologies in banking (faster payments, regulation/public trust, expansion of bank services/customer base, financial inclusion)
